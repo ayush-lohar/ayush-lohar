@@ -51,5 +51,16 @@
 ---
 
 <div align="center">
+  <img align="right" src="https://img.shields.io/github/stars/ayush-lohar?label=Stars&style=social" alt="GitHub Stars" />
+<a href="https://github.com/ayush-lohar?tab=followers">
+  <img align="right" src="https://img.shields.io/github/followers/ayush-lohar?label=Followers&style=social" alt="GitHub Followers" />
+</a>
+<a href="https://github.com/ayush-lohar">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ayush-lohar" alt="Profile Views" />
+</a>
+
   <img src="https://media.tenor.com/BFicsAlUcYkAAAAi/anime-dance.gif" width="200" />
 </div>
+
+<img alt="github-snake"
+  src="https://cdn.jsdelivr.net/gh/aayushchouhan24/aayushchouhan24@output/github-contribution-grid-snake-dark.svg" />
