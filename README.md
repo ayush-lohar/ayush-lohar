@@ -35,13 +35,7 @@
 
 ---
 
-### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayush-lohar&theme=gruvbox&no-frame=true&column=6" />
-</div>
-
----
 
 ### 📫 Connect with Me
 
